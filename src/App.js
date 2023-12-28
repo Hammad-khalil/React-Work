@@ -8,7 +8,7 @@ function App() {
 {/* NavBar */}
 
 
-<Navbar title="Twitter" menu={786}/>
+<Navbar title="React JS" menu="Blogs"/>
 </>
 
 
