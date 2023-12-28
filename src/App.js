@@ -8,7 +8,7 @@ function App() {
 {/* NavBar */}
 
 
-<Navbar/>
+<Navbar title="Twitter" menu="Blogs"/>
 </>
 
 
