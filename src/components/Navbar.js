@@ -1,5 +1,5 @@
-import React from 'react'
 import PropTypes from 'prop-types'
+import React from 'react'
 
 export default function Navbar(props) {
   return (
@@ -34,6 +34,6 @@ Navbar.propTypes = {title: PropTypes.string.isRequired,
                     menu: PropTypes.string}
 
 Navbar.defaultProps = {
-    title: "React",
+    title: "React JS",
     menu: "Write For US"
 }
