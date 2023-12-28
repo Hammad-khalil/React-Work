@@ -3,6 +3,7 @@ import React, {useState} from "react"
 export default function Textarea(props) {
     const handleUpClick = () =>{
         console.log("Uppercase Clicked");
+        setText("Done !!!")
     }
     const handleOnChange = () =>{
         console.log("Function Onchange !!");
