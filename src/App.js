@@ -8,7 +8,8 @@ function App() {
 {/* NavBar */}
 
 
-<Navbar title="React JS" menu="Blogs"/>
+{/* <Navbar title="React JS" menu="Blogs"/> */}
+<Navbar/>
 </>
 
 
